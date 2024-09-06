@@ -12,10 +12,7 @@ The Employee Management CLI Application is a command-line interface (CLI) tool b
 
 * [Installation](#installation)
 * [Usage](#usage)
-* [Contributing](#contributing)
-* [Tests](#tests)
 * [Credits](#credits)
-* [Questions](#questions)
 
 ## Installation
 
